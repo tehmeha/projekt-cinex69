@@ -1,5 +1,5 @@
-# naziv projekta
+# naziv projekta: Potapljanje brodova
 - projetnik zadatak SSSS Tehmeha
-- team members: Ime Prezime
+- team members: Mateo Gamilec, Kristijan Golubiæ
 - programming language: C++
-- description: Opis
+- description: Dva igraèa igraju potapljanje brodova.
